@@ -1,24 +1,47 @@
 .home {
+  .bus-img{
+    margin: 0 auto;
+    width:100%;
+    @media @mobile{
+      width:90%;
+    }
+  }
+
 
   .content-section {
     margin: 30px 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    
+    border-bottom: 2px dashed @navigation-border;
+    
 
    
     
     .text-content {
       width: 48%;
       padding-right: 1%;
+      padding-top: 3%;
+      
+      @media @mobile{
+        width:90%;
+        margin: 0 auto;
+      }
     }
 
     .img-content {
       width: 48%;
       padding-left: 1%;
+      padding-top: 25;
+      @media @mobile {
+        width: 90%;
+        margin: 0 auto;
+      }
 
       img {
         border-radius: 10px;
+        
       }
     }
   }
@@ -26,21 +49,33 @@
   .inverse-content {
     padding-bottom: 30px;
     border-bottom: 2px dashed @navigation-border;
+    @media @mobile{
+      .flex(column-reverse,space-between,center);
+    }
 
     .text-content {
       padding-left: 1%;
       padding-right: 0;
+     
+      
     }
 
     .img-content {
       padding-right: 1%;
       padding-left: 0;
+      @media @mobile {
+        width: 90%;
+        
+      }
     }
   }
 
   .content-destination {
     width: 75%;
     margin: 0 auto 30px;
+    @media @mobile {
+      width: 90%;
+    }
 
     img {
       border-radius: 10px;
@@ -52,10 +87,45 @@
     border-top: 2px dashed @navigation-border;
     display: flex;
     justify-content: space-between;
+    @media @mobile{
+      .flex(column-reverse, space-between, center);
+      margin: 0px 25px
+    }
 
     .destination {
       width: 30%;
       margin-bottom: 30px;
+      @media @mobile{
+        width: 100%;
+      }
     }
   }
 }// home
+
+///////////// My code to understand//////////////////
+
+header{
+  border-bottom: dashed grey 2px;
+  padding: 1%;
+  .parent{
+    .flex(row,space-between,center);
+    margin: 0 auto;
+    width:40%;
+    @media @mobile{
+      .flex(column, space-between,center);
+      width:87%
+    }
+    
+      
+    .logo{
+        width:30%;
+        @media @mobile{
+          width:100%;
+          text-align: center;
+        }
+      }
+  }
+}
+.btn{
+  .button();
+}
