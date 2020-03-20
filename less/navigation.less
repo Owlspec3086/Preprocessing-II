@@ -1,10 +1,18 @@
 // Navigation Styles here
 
 nav {
-    display: flex;
-    justify-content: space-around;
-    max-width: 72.5%;
-    padding-top: 2%;
-    margin-left: 2%;
-    
+    .flex(row,space-between,center);
+    width:50%;
+    @media @mobile{
+        width:100%;
+        
+    }
+    a{
+        text-decoration: none;
+        font-size: 1.6rem;
+        // padding:2%;
+        margin: 0 2%;
+        color:black;
+    }
+       
 }
