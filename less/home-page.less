@@ -88,12 +88,16 @@
     display: flex;
     justify-content: space-between;
     @media @mobile{
-      .flex(column-reverse, space-between);
+      .flex(column-reverse, space-between, center);
+      margin: 0px 25px
     }
 
     .destination {
       width: 30%;
       margin-bottom: 30px;
+      @media @mobile{
+        width: 100%;
+      }
     }
   }
 }// home

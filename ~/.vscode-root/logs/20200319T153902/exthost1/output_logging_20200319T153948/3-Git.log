@@ -1,0 +1,2638 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/owlspec3086/Lambda_assignments/Preprocessing-II
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/README.md
+> git cat-file -s 8c6cbcf19fede7739ece6a14623a4b53d6c4a6bc
+> git check-ignore -v -z --stdin
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s bb8663b76824917f2456eab6a2d79184b5da58e2
+> git check-ignore -v -z --stdin
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/index.less
+> git cat-file -s c113ca2c46ac7f912e18e1e7f0d98d99b96c6685
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/README.md
+> git cat-file -s 8c6cbcf19fede7739ece6a14623a4b53d6c4a6bc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/README.md
+> git cat-file -s 8c6cbcf19fede7739ece6a14623a4b53d6c4a6bc
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s f89120a0f103b9677386f3472b17556ab7ce73af
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s 5528d8a7a58f57c9a62e868db1668b98bc467d72
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s 5528d8a7a58f57c9a62e868db1668b98bc467d72
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s bb8663b76824917f2456eab6a2d79184b5da58e2
+> git check-ignore -v -z --stdin
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/README.md
+> git cat-file -s 8c6cbcf19fede7739ece6a14623a4b53d6c4a6bc
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s bb8663b76824917f2456eab6a2d79184b5da58e2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s bb8663b76824917f2456eab6a2d79184b5da58e2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/index.less
+> git cat-file -s c113ca2c46ac7f912e18e1e7f0d98d99b96c6685
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s 5528d8a7a58f57c9a62e868db1668b98bc467d72
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s f89120a0f103b9677386f3472b17556ab7ce73af
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/index.less
+> git cat-file -s c113ca2c46ac7f912e18e1e7f0d98d99b96c6685
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s f89120a0f103b9677386f3472b17556ab7ce73af
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/index.less
+> git cat-file -s c113ca2c46ac7f912e18e1e7f0d98d99b96c6685
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s f89120a0f103b9677386f3472b17556ab7ce73af
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/README.md
+> git cat-file -s 8c6cbcf19fede7739ece6a14623a4b53d6c4a6bc
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/index.less
+> git cat-file -s c113ca2c46ac7f912e18e1e7f0d98d99b96c6685
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s bb8663b76824917f2456eab6a2d79184b5da58e2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s f89120a0f103b9677386f3472b17556ab7ce73af
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s 5528d8a7a58f57c9a62e868db1668b98bc467d72
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s f89120a0f103b9677386f3472b17556ab7ce73af
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s 5528d8a7a58f57c9a62e868db1668b98bc467d72
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s f89120a0f103b9677386f3472b17556ab7ce73af
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/mixins.less
+> git cat-file -s 2d5c60355862dc7b6cdcc9e9a9f6482393e1a866
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s bb8663b76824917f2456eab6a2d79184b5da58e2
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/mixins.less
+> git cat-file -s 2d5c60355862dc7b6cdcc9e9a9f6482393e1a866
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s bb8663b76824917f2456eab6a2d79184b5da58e2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+fatal: no upstream configured for branch 'eric-anderson'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s 5528d8a7a58f57c9a62e868db1668b98bc467d72
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s 8948bd473ae47f13f29fc9f48f70725e56b5799f
+> git rev-parse eric-anderson
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git show :index.html
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git show :less/home-page.less
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/mixins.less
+> git cat-file -s d35bfb1c148ac58f1cc49cb7553b680af6779081
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s 8948bd473ae47f13f29fc9f48f70725e56b5799f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/index.less
+> git cat-file -s 40d1251639bae5f26ab298ba4f97dad3f2589bca
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/README.md
+> git cat-file -s 4929aa70e416d3919406383fcda9c5938ed06b6b
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s 8948bd473ae47f13f29fc9f48f70725e56b5799f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/index.less
+> git cat-file -s 40d1251639bae5f26ab298ba4f97dad3f2589bca
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/index.less
+> git cat-file -s 40d1251639bae5f26ab298ba4f97dad3f2589bca
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/README.md
+> git cat-file -s 4929aa70e416d3919406383fcda9c5938ed06b6b
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/mixins.less
+> git cat-file -s d35bfb1c148ac58f1cc49cb7553b680af6779081
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s 8948bd473ae47f13f29fc9f48f70725e56b5799f
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/README.md
+> git cat-file -s 4929aa70e416d3919406383fcda9c5938ed06b6b
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s 8948bd473ae47f13f29fc9f48f70725e56b5799f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/mixins.less
+> git cat-file -s d35bfb1c148ac58f1cc49cb7553b680af6779081
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/README.md
+> git cat-file -s 4929aa70e416d3919406383fcda9c5938ed06b6b
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/mixins.less
+> git cat-file -s d35bfb1c148ac58f1cc49cb7553b680af6779081
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/index.less
+> git cat-file -s 40d1251639bae5f26ab298ba4f97dad3f2589bca
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/index.less
+> git cat-file -s 40d1251639bae5f26ab298ba4f97dad3f2589bca
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/variables.less
+> git cat-file -s 916eb0b7e0b0dabc8590899bfdd552b52c8c493f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s 8948bd473ae47f13f29fc9f48f70725e56b5799f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/mixins.less
+> git cat-file -s d35bfb1c148ac58f1cc49cb7553b680af6779081
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/README.md
+> git cat-file -s 4929aa70e416d3919406383fcda9c5938ed06b6b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/variables.less
+> git cat-file -s 916eb0b7e0b0dabc8590899bfdd552b52c8c493f
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s 8948bd473ae47f13f29fc9f48f70725e56b5799f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/README.md
+> git cat-file -s 4929aa70e416d3919406383fcda9c5938ed06b6b
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/README.md
+> git cat-file -s 4929aa70e416d3919406383fcda9c5938ed06b6b
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/mixins.less
+> git cat-file -s d35bfb1c148ac58f1cc49cb7553b680af6779081
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s 8948bd473ae47f13f29fc9f48f70725e56b5799f
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/mixins.less
+> git cat-file -s d35bfb1c148ac58f1cc49cb7553b680af6779081
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/README.md
+> git cat-file -s 4929aa70e416d3919406383fcda9c5938ed06b6b
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/mixins.less
+> git cat-file -s d35bfb1c148ac58f1cc49cb7553b680af6779081
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :README.md
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/README.md
+> git cat-file -s 4929aa70e416d3919406383fcda9c5938ed06b6b
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/variables.less
+> git cat-file -s 916eb0b7e0b0dabc8590899bfdd552b52c8c493f
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s 8948bd473ae47f13f29fc9f48f70725e56b5799f
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/mixins.less
+> git cat-file -s d35bfb1c148ac58f1cc49cb7553b680af6779081
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s 8948bd473ae47f13f29fc9f48f70725e56b5799f
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/index.less
+> git cat-file -s 40d1251639bae5f26ab298ba4f97dad3f2589bca
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/variables.less
+> git cat-file -s 916eb0b7e0b0dabc8590899bfdd552b52c8c493f
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/variables.less
+> git cat-file -s 916eb0b7e0b0dabc8590899bfdd552b52c8c493f
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/variables.less
+> git cat-file -s 916eb0b7e0b0dabc8590899bfdd552b52c8c493f
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/mixins.less
+> git cat-file -s d35bfb1c148ac58f1cc49cb7553b680af6779081
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s 8948bd473ae47f13f29fc9f48f70725e56b5799f
+> git show :less/mixins.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/mixins.less
+> git cat-file -s d35bfb1c148ac58f1cc49cb7553b680af6779081
+> git show :index.html
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/index.html
+> git cat-file -s 8948bd473ae47f13f29fc9f48f70725e56b5799f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/index.less
+> git cat-file -s 40d1251639bae5f26ab298ba4f97dad3f2589bca
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/index.less
+> git cat-file -s 40d1251639bae5f26ab298ba4f97dad3f2589bca
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/index.less
+> git cat-file -s 40d1251639bae5f26ab298ba4f97dad3f2589bca
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/variables.less
+> git cat-file -s 916eb0b7e0b0dabc8590899bfdd552b52c8c493f
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/index.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/index.less
+> git cat-file -s 40d1251639bae5f26ab298ba4f97dad3f2589bca
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/variables.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/variables.less
+> git cat-file -s 916eb0b7e0b0dabc8590899bfdd552b52c8c493f
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git show :less/navigation.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/navigation.less
+> git cat-file -s 6b4db4679ab3a3c571c67f7b9fc8d7bb9f57ecee
+> git show :less/home-page.less
+> git ls-files --stage -- /home/owlspec3086/Lambda_assignments/Preprocessing-II/less/home-page.less
+> git cat-file -s fe1ac0376248e17b3a32ab27b67d6abe09310f58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse eric-anderson
+> git rev-parse --symbolic-full-name eric-anderson@{u}
+> git rev-list --left-right eric-anderson...refs/remotes/origin/eric-anderson
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

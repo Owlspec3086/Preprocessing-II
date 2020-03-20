@@ -286,12 +286,18 @@ nav a {
     display: flex;
     flex-direction: column-reverse;
     justify-content: space-between;
-    align-items: left;
+    align-items: center;
+    margin: 0px 25px;
   }
 }
 .home .content-pick .destination {
   width: 30%;
   margin-bottom: 30px;
+}
+@media (max-width:500px) {
+  .home .content-pick .destination {
+    width: 100%;
+  }
 }
 header {
   border-bottom: dashed grey 2px;
@@ -330,5 +336,4 @@ header .parent .logo {
   margin-top: 5%;
   background-color: #17A2B8;
   border-radius: 0.8rem;
-  transition: backgound ease-in-out 0.7s;
 }
